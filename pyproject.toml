@@ -1,0 +1,7 @@
+[project]
+name = "rubinruciopolicy"
+version = "0.1.0"
+description = "Policy package for Rubin"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
